@@ -1,5 +1,0 @@
-INDEX VERSION 1.134+/home/lucas/Desktop/java_nelio/.metadata/.plugins/org.eclipse.jdt.core
-1212117664.index
-636748737.index
-1865797976.index
-1157105895.index
